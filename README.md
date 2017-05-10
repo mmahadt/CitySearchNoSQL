@@ -1,5 +1,5 @@
 # CitySearchNoSQL
-Lab 10 of Software Construction at SEECS, NUST\
+Lab 10 of Software Construction at SEECS, NUST
 
 The steps to be followed:
 
